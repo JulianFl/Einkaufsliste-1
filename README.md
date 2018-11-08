@@ -3,9 +3,9 @@ Praktikum_4 aus Open-Source Softwareentwicklung
 
 ## Lebenslauf
 
-### Name: ### Max Mustermann
-### Wohnort: ### 11111 Musterhausen
-### Geburtstag: ### 01.01.1970
+### Name: Max Mustermann
+### Wohnort: 11111 Musterhausen
+### Geburtstag: 01.01.1970
 ### Hobbies: ###
 
 
