@@ -15,4 +15,4 @@ Praktikum_4 aus Open-Source Softwareentwicklung
 
 >"Das Fluchen ist die einzige Sprache, die jeder Programmierer beherrscht."
 
-![Alternativtext](/github-mark.png "GitHub Logo")
+!(github-mark.png "GitHub Logo")
